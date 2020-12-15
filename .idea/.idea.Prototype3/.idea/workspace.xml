@@ -15,9 +15,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Script/RepeatBackground.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/SpawnManger.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -61,6 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607391326039</updated>
       <workItem from="1607391361279" duration="5814000" />
+      <workItem from="1607996096453" duration="2000" />
+      <workItem from="1607996501895" duration="2597000" />
     </task>
     <servers />
   </component>
